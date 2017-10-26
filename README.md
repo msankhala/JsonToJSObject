@@ -2,6 +2,13 @@
 
 My custom SublimeText 3 plugins to convert JSON object to valid js object. This plugins do not work in all cases. Currently it convert all the json strings in a file into js object.
 
+## Installation
+- Clone this repo into `~/Library/Application\ Support/Sublime\ Text\ 3/Packages`
+
+## Uses
+- Open an empty file and paste a JSON response
+- `cmd+shift+p` select command `Json to Js object` and boom you have your js object to use inside your app.
+
 ## @TODO
 Imrove plugin to consider more cases and only convert selected json string into js object.
 
