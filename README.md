@@ -10,8 +10,9 @@ Sometimes you may want to convert a valid json response to a valid javascript ob
 ### Use case 
 Using dummy json object as valid js object in writing test cases.
 
-Valid js object should use single quote around values as per eslint rule.
-Valid js object should use single quote in keys name if key has special characters.
+Currently following standard
+- Valid js object should use single quote around values as per eslint rule.
+- Valid js object should use single quote in keys name if key has special characters.
 
 ### Command
  `cmd+shift+p` then run `Json to js object` command
