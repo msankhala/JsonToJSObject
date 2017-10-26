@@ -1,6 +1,9 @@
 # Json To Js Object
 
-My custom plugins to convert JSON object to valid js object. Do not work in all cases.
+My custom SublimeText 3 plugins to convert JSON object to valid js object. This plugins do not work in all cases. Currently it convert all the json strings in a file into js object.
+
+## @TODO
+Imrove plugin to consider more cases and only convert selected json string into js object.
 
 Sometimes you may want to convert a valid json response to a valid javascript object. For example you are getting json data from an api. You want to use that json response as javascript object inside your application.
 
